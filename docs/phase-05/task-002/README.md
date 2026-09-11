@@ -22,6 +22,8 @@ Create or map a Linear issue for this task when Linear MCP is configured.
 
 ## Dependencies
 - `phase-00/task-003`
+- `phase-01/task-002`
+- `phase-02/task-006`
 
 ## Repository Context Required
 

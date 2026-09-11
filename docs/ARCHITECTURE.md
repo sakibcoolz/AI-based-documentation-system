@@ -97,7 +97,7 @@ flowchart LR
   JOBS --> EXT[OpenRouter / Graphify / Context7]
 ```
 
-## 15. Mermaid Diagram
+## 15. Platform Component Overview
 ```mermaid
 flowchart LR
   UI[Next.js UI] --> API[FastAPI API]
