@@ -52,6 +52,12 @@ See `docs/MVP_ROADMAP.md`.
 ## Phase / Task Documents
 - MVP phases: 6
 - Development tasks: 26
+- Phase 00 tasks: 3
+- Phase 01 tasks: 4
+- Phase 02 tasks: 6
+- Phase 03 tasks: 4
+- Phase 04 tasks: 5
+- Phase 05 tasks: 4
 - Task details: `docs/phase-00/` through `docs/phase-05/`
 
 ## Linear Task Plan

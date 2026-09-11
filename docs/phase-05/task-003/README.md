@@ -4,7 +4,7 @@
 Validate the full documented MVP workflow against acceptance criteria.
 
 ## Why This Task Exists
-This task delivers a required MVP capability for hardening and provides inputs needed by downstream phases.
+This task proves the documented MVP works as an integrated system before release-hardening is considered complete.
 
 ## Scope
 
