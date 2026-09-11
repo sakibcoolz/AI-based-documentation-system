@@ -1,63 +1,63 @@
-        # UI / task-001 — Next.js Dashboard
+# UI / task-001 — Next.js Dashboard
 
-        ## Objective
-        Build repository intake and status dashboard views.
+## Objective
+Build repository intake and status dashboard views.
 
-        ## Why This Task Exists
-        This task delivers a required MVP capability for ui and provides inputs needed by downstream phases.
+## Why This Task Exists
+This task delivers a required MVP capability for ui and provides inputs needed by downstream phases.
 
-        ## Scope
+## Scope
 
-        ### In Scope
-        - Deliver the core capability described by this task.
-        - Define the contracts and operational boundaries needed for implementation.
-        - Update impacted documentation.
+### In Scope
+- Deliver the core capability described by this task.
+- Define the contracts and operational boundaries needed for implementation.
+- Update impacted documentation.
 
-        ### Out of Scope
-        - Features assigned to later phases.
-        - Non-MVP platform extensions.
+### Out of Scope
+- Features assigned to later phases.
+- Non-MVP platform extensions.
 
-        ## Linear
-        Create or map a Linear issue for this task when Linear MCP is configured.
+## Linear
+Create or map a Linear issue for this task when Linear MCP is configured.
 
-        ## Dependencies
-        - `phase-00/task-001`
+## Dependencies
+- `phase-00/task-001`
 - `phase-03/task-004`
 
-        ## Repository Context Required
+## Repository Context Required
 
-        ### Graphify Queries
-        - What components are impacted by this task?
-        - Which dependency paths connect the changed module to the rest of the system?
+### Graphify Queries
+- What components are impacted by this task?
+- Which dependency paths connect the changed module to the rest of the system?
 
-        ### Context7 Documentation Required
-        - Current documentation for the frameworks and libraries directly used by this task.
+### Context7 Documentation Required
+- Current documentation for the frameworks and libraries directly used by this task.
 
-        ## Proposed Design
-        Implement the smallest design slice that satisfies this task while preserving the evidence-first architecture and documentation-first workflow.
+## Proposed Design
+Implement the smallest design slice that satisfies this task while preserving the evidence-first architecture and documentation-first workflow.
 
-        ## API / Data Contracts
-        Define or update only the contracts required for this task and align them with `docs/API_CONTRACT.md` and `docs/DATA_MODEL.md`.
+## API / Data Contracts
+Define or update only the contracts required for this task and align them with `docs/API_CONTRACT.md` and `docs/DATA_MODEL.md`.
 
-        ## Implementation Steps
-        1. Confirm upstream dependencies are ready.
-        2. Implement the deterministic contracts or orchestration needed for the task.
-        3. Add or update focused tests.
-        4. Update impacted documentation.
+## Implementation Steps
+1. Confirm upstream dependencies are ready.
+2. Implement the deterministic contracts or orchestration needed for the task.
+3. Add or update focused tests.
+4. Update impacted documentation.
 
-        ## Tests
-        Add unit, integration, or contract tests appropriate to the capability delivered by this task.
+## Tests
+Add unit, integration, or contract tests appropriate to the capability delivered by this task.
 
-        ## Security
-        Preserve workspace isolation, path validation, secret handling, and prompt-injection defenses relevant to this task.
+## Security
+Preserve workspace isolation, path validation, secret handling, and prompt-injection defenses relevant to this task.
 
-        ## Observability
-        Add tracing, metrics, and structured logs needed to prove the task works in production-like flows.
+## Observability
+Add tracing, metrics, and structured logs needed to prove the task works in production-like flows.
 
-        ## Acceptance Criteria
-        - The scoped capability works as documented.
-        - Acceptance evidence is recorded.
-        - Documentation stays consistent with the implementation.
+## Acceptance Criteria
+- The scoped capability works as documented.
+- Acceptance evidence is recorded.
+- Documentation stays consistent with the implementation.
 
-        ## Completion Evidence
-        Link the implementation PR, test evidence, and any task comments or follow-up notes.
+## Completion Evidence
+Link the implementation PR, test evidence, and any task comments or follow-up notes.

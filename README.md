@@ -6,10 +6,10 @@ This repository follows a **documentation-first** workflow. Production implement
 
 ## Start Here
 
-1. Read `/home/runner/work/AI-based-documentation-system/AI-based-documentation-system/PRT.md`.
-2. Read `/home/runner/work/AI-based-documentation-system/AI-based-documentation-system/docs/INDEX.md`.
-3. Read `/home/runner/work/AI-based-documentation-system/AI-based-documentation-system/.github/copilot-instructions.md`.
-4. Use `/home/runner/work/AI-based-documentation-system/AI-based-documentation-system/prompts/MASTER_DEVELOPMENT_PROMPT.md` before implementation planning.
+1. Read `PRT.md`.
+2. Read `docs/INDEX.md`.
+3. Read `.github/copilot-instructions.md`.
+4. Use `prompts/MASTER_DEVELOPMENT_PROMPT.md` before implementation planning.
 
 ## Repository Status
 
